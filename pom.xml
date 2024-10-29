@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>helloworld-maven</artifactId>
+    <artifactId>helloprint-maven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>
